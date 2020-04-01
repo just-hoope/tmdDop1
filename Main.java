@@ -97,3 +97,56 @@ public class Main {
 
 
 }
+
+
+/*
+*0
+Count Snow: 100000.0
+Count Rain 0
+P Snow: 1.0
+P Rain: 0.0
+P Teor Snow: 1.0
+P Teor Rain: 0.0
+1
+Count Snow: 70132.0
+Count Rain 29868
+P Snow: 0.70132
+P Rain: 0.29867999999999995
+P Teor Snow: 0.7
+P Teor Rain: 0.30000000000000004
+2
+Count Snow: 52025.0
+Count Rain 47975
+P Snow: 0.52025
+P Rain: 0.47975
+P Teor Snow: 0.5199999999999999
+P Teor Rain: 0.4800000000000001
+3
+Count Snow: 40855.0
+Count Rain 59145
+P Snow: 0.40855
+P Rain: 0.59145
+P Teor Snow: 0.4119999999999999
+P Teor Rain: 0.5880000000000001
+4
+Count Snow: 35053.0
+Count Rain 64947
+P Snow: 0.35053
+P Rain: 0.64947
+P Teor Snow: 0.34719999999999995
+P Teor Rain: 0.6528
+5
+Count Snow: 30682.0
+Count Rain 69318
+P Snow: 0.30682
+P Rain: 0.69318
+P Teor Snow: 0.3083199999999999
+P Teor Rain: 0.6916800000000001
+6
+Count Snow: 28332.0
+Count Rain 71668
+P Snow: 0.28332
+P Rain: 0.71668
+P Teor Snow: 0.2849919999999999
+P Teor Rain: 0.7150080000000001
+* */
